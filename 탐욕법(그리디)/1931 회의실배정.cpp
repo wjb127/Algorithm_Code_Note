@@ -8,7 +8,7 @@ struct Time {
     int st,ed;
 };
 
-const int INF = 9876543210;
+const long long int INF = 9876543210;
 int N;
 Time meet[100001];
 
