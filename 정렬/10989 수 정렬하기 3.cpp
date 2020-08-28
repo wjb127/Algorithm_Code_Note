@@ -2,7 +2,7 @@
 #include<algorithm>
 #include<memory.h>
 using namespace std;
-// ㅋㅋㅋㅋㅋㅋㅋ 
+// 변수 설정 주의@
 long int num[10001];
 
 int main()
